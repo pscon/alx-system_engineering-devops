@@ -1,0 +1,1 @@
+This repository contains programs written for the system engineering and DevOps track at alx-Holbrton School. In these projects, I worked with Bash and practicesd writing Bash scripts to automate tasks. The specific list of projects
